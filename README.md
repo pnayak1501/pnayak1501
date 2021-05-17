@@ -16,7 +16,5 @@ Skills: REACT / JS / HTML / CSS / PHP / ANDROID
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pnayak1501&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/pnayak1501)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=pnayak1501)  
 
