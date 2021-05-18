@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Prahlad
 #### I am a Student
-Currently pursuing 3rd year of Engineering from BMS College of Engineering. 
+Currently pursuing 3rd year of Engineering in Information Science from BMS College of Engineering. 
 
 Skills: REACT / JS / HTML / CSS / PHP / ANDROID 
 
