@@ -5,7 +5,7 @@ Currently pursuing 3rd year of Engineering in Information Science from BMS Colle
 Skills: REACT / JS / HTML / CSS / PHP / ANDROID 
 
 - 🔭 I’m currently working on some ideas 
-- 🌱 I’m currently learning Django 
+- 🌱 I’m currently learning NodeJS 
 - 👯 I’m looking to collaborate on Fintech projects 
 - ⚡ Fun fact: Alexa is always listening to your conversations 
 
