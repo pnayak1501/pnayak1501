@@ -3,6 +3,7 @@
 Currently pursuing 3rd year of Engineering in Information Science from BMS College of Engineering
 
 Skills: REACT / JS / HTML / CSS / PHP / ANDROID / NODEJS / FLUTTER
+Portfolio: https://prahlad-nayak.netlify.app/
 
 - 🔭 I’m currently working on some ideas 
 - 🌱 I’m currently learning MERN stack 
